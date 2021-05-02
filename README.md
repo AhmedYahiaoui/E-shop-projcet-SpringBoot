@@ -1,11 +1,12 @@
 # E-shop-projcet-SpringBoot
 
 Spring Boot 2.4.5 Backend for comsuming JSON API REST FULL result.
+
   - Maven project
   - Jar
   - JDK 8
 
-* Dependencies
+Dependencies
 
 - Spring Web WEB
 - Thymeleaf TEMPLATE ENGINES
@@ -17,6 +18,9 @@ Spring Boot 2.4.5 Backend for comsuming JSON API REST FULL result.
 - org.json
 - jjwt 
 
-User + Roles
-Shops + images
-Products + images
+
+Entities
+
+- User + Roles
+- Shops + images
+- Products + images
